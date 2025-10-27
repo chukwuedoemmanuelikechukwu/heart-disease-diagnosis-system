@@ -101,7 +101,7 @@ streamlit run Heart_Disease_Prediction.ipynb
 
 or (if you have a dedicated app.py):
 
-streamlit run app.py
+streamlit run main.py
 
 
 Open your browser and visit
